@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+
+        <title>Simple file upload example / Example-1</title>
+    </head>
+    <body>
+        <script src="js/upload.js"></script>
+
+        <form>
+            <p>Click the button and choose files to upload.</p>
+            <input 
+                type="file" 
+                multiple
+                onchange="uploadFiles(this.files)"
+                />
+        </form>
+
+    </body>
+</html>

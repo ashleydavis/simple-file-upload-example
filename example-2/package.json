@@ -1,0 +1,30 @@
+{
+  "name": "example-2",
+  "version": "1.0.0",
+  "description": "The simplest possible example of uploading files from a web page to your Node.js server / Example-2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashleydavis/simple-file-upload-example.git"
+  },
+  "keywords": [
+    "javascript",
+    "file",
+    "upload",
+    "node.js",
+    "nodejs"
+  ],
+  "author": "ashley@codecapers.com.au",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashleydavis/simple-file-upload-example/issues"
+  },
+  "homepage": "https://github.com/ashleydavis/simple-file-upload-example#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
