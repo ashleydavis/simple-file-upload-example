@@ -1,4 +1,6 @@
-# Simplest possible example of uploading files to Node.js / Example 2
+# Simplest possible example of uploading files to Node.js 
+
+## Example 2
 
 This subdirectory contains the second example. 
 
