@@ -4,7 +4,7 @@ This repo contains the simplest possible example of uploading files from a web p
 
 Know a simpler way to do this? Please let me know, if I agree, we'll update this example and you can get the credit for your idea.
 
-Love this? [Follow me on Twitter](https://twitter.com/ashleydavis75) for cool insights and examples.
+If you like this project, please star this repo and [support my work](https://www.codecapers.com.au/about#support-my-work)
 
 Please see the README.md in each subdirectory for instructions
 
